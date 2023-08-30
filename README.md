@@ -1,6 +1,6 @@
 # FORESIGHT SOLUTIONS HUB
 
-![FORESIGHTSH LOGO](images/logo.png)
+![FORESIGHTSH LOGO](logo.png)
 
 FORESIGHT Solutions Hub is a foresight and technology company providing you with the best and most innovative data-centric solutions, addressing design, planning, monitoring and evaluation concerns. 
 
